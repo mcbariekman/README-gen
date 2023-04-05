@@ -16,9 +16,10 @@ To create a professional README.md for Github
 > For installation instructions, I would include prerequisites and step-by-step instructions.
 
 ## Usage
+> Using PC you would generate a README file in the Powershell Terminal. 
 > Below is a video showcasing the usage of the application:
 
-[![README Usage](/assets/thumbnail.png)](https://youtu.be/wLW0LNleLQs)
+[![README Usage](/assets/thumbnail.png)](https://www.youtube.com/watch?v=rJvHPLL7EfA)
 
 ## Contributing
 Please review our guidelines for pull requests, code formatting, and our code of conduct before submitting any contributions. We welcome your contributions and look forward to working together to improve our project.
