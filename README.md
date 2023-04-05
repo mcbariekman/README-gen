@@ -13,10 +13,12 @@ To create a professional README.md for Github
 - [Questions](#questions)
 
 ## Installation
-List out full instructions for installing the node and inquirer
+> For installation instructions, I would include prerequisites and step-by-step instructions.
 
 ## Usage
-to help potential users of my application understand how to tistall and use my application
+> Using PC you would generate a README file in the Powershell Terminal.
+
+[![README Usage](/assets/thumbnail.png)](/assets/usage.mp4)
 
 ## Contributing
 Please review our guidelines for pull requests, code formatting, and our code of conduct before submitting any contributions. We welcome your contributions and look forward to working together to improve our project.
